@@ -137,3 +137,7 @@ xcodebuild -exportArchive \
 5. 上传（Xcode Organizer 或 `xcrun altool` / `notarytool`）并提交审核
 
 代码侧已经就绪的部分：Bundle ID、版本号、用途描述文案、App 图标。
+
+## License
+
+[MIT](LICENSE) © 2026 arckal
