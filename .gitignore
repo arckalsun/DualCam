@@ -1,0 +1,8 @@
+build/
+build-device/
+.build-device/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+.tmp/
+.mc/
